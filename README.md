@@ -18,3 +18,11 @@ pip install -r requirements.txt
 ```zsh
 python generate_wallet_mnemonic.py
 ```
+
+## Output
+
+> Generated mnemonic:  
+> `original lecture toy yellow job voyage provide oven sketch chat pencil stem ability stumble ship legal area illness regret spatial potato security hood sentence`
+>
+> First Ethereum wallet address:  
+> `0x677F0B973453E582b1C08F760905F1429bdCa8d4`
